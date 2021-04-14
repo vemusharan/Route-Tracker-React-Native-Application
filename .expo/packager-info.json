@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://e4-buw.anonymous.tracks.exp.direct",
+  "packagerNgrokUrl": "https://packager.e4-buw.anonymous.tracks.exp.direct",
+  "ngrokPid": 9788,
+  "webpackServerPort": null
+}
